@@ -1,0 +1,12 @@
+[project]
+name = "test"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "aiogram>=3.28.2",
+    "dotenv>=0.9.9",
+    "google>=3.0.0",
+    "google-genai>=2.4.0",
+    "google-generativeai>=0.8.6",
+    "openai>=2.37.0",
+]
